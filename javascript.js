@@ -1,7 +1,5 @@
-const Name = ['Sam Martin'];
-const Career = ['Digital Growth Manager'];
+let fullname = "Sam Martin".toUpperCase();
 
-
-console.log [Name]
-console.log [Career]
-
+console.log("Name: " + fullname);
+console.log("Career: Digital Growth Manager");
+console.log("Description: I like video games")
