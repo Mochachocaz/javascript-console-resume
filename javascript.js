@@ -9,4 +9,3 @@ console.log("* Video Games");
 console.log("* TV Shows");
 console.log("* Hanging out with friends");
 console.log("* Practicing coding & starting side hustles");
-
